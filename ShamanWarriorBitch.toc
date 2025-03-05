@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: Shaman Warrior Bitch
+## Author: Quad Crown
+## Notes: Monitors Windfury Totem aura on group members.
+## SavedVariables: SWBDB
+ShamanWarriorBitch.lua
